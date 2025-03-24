@@ -18,7 +18,7 @@ const Home = () => {
 				<Card />
 				<Card />
 			</div>
-			<div className="text-center bg-darkgrey">
+			<div className="text-center bg-darkgrey margin-top">
 				<Footer />
 			</div>
 		</div>

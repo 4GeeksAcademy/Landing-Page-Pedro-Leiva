@@ -9,3 +9,13 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.bg-darkgrey{
+    background-color: rgb(77, 76, 76);
+}
+.margin-top{
+    margin-top: 70px;
+}
+.footer > p{
+    margin-bottom: 0px;
+    padding: 25px;
+}
